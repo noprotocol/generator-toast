@@ -1,0 +1,32 @@
+{
+  "name": "generator-toast",
+  "version": "0.1.1",
+  "description": "Project scaffolding",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "homepage": "https://github.com/NoProtocol/generator-toast",
+  "bugs": "https://github.com/NoProtocol/generator-toast/issues",
+  "author": {
+    "name": "Bob Fanger",
+    "email": "bfanger@gmail.com",
+    "url": "bfanger.nl"
+  },
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NoProtocol/generator-toast.git"
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.10.2",
+    "q": "~0.9.3"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
