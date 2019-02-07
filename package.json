@@ -18,7 +18,7 @@
     "url": "https://github.com/NoProtocol/generator-toast.git"
   },
   "dependencies": {
-    "yeoman-generator": "~0.10.2",
+    "yeoman-generator": "~0.23.0",
     "q": "~0.9.3"
   },
   "engines": {
